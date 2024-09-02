@@ -1,5 +1,5 @@
 url: "https://diegolinhares.github.io"
-baseurl: "blog"
+baseurl: ""
 title: "Diego Linhares"
 
 plugins:
