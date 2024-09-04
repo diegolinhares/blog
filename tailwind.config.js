@@ -8,8 +8,11 @@ module.exports = {
     "./*.html",
   ],
   theme: {
-    theme: {
-      extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Source Sans Pro", "sans-serif"],
+        headline: ["IBM Plex Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
